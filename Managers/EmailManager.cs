@@ -1,4 +1,5 @@
 ﻿using CsvHelper;
+using MailAttachementsTest.Entities;
 using MailKit;
 using MailKit.Net.Imap;
 using MailKit.Security;

@@ -1,4 +1,5 @@
-﻿using MailAttachementsTest.Managers;
+﻿using MailAttachementsTest.Entities;
+using MailAttachementsTest.Managers;
 using System;
 using System.Collections.Generic;
 

@@ -1,4 +1,4 @@
-﻿namespace MailAttachementsTest
+﻿namespace MailAttachementsTest.Entities
 {
     /// <summary>
     /// Элемент прайса

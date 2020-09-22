@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using MailAttachementsTest.Data;
+using MailAttachementsTest.Entities;
+using System.Collections.Generic;
 
 namespace MailAttachementsTest.Managers
 {

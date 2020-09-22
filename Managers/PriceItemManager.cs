@@ -1,4 +1,5 @@
 ﻿using CsvHelper;
+using MailAttachementsTest.Entities;
 using System.Text.RegularExpressions;
 
 namespace MailAttachementsTest.Managers
